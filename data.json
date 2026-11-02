@@ -1,7 +1,7 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
+  "shopName": "ร้านกาแฟของ Novel",
   "owner": "Mongkhon Sukwasana",
-  "studentId": "6XXXXXXXXX",
+  "studentId": "1680705777",
   "ownerPhone": "081-234-5678",
   "products": [
     {
@@ -30,9 +30,9 @@
     },
     {
     "id": 4,
-      "name": "ลาต้า",
-      "price": 60,
-      "emoji": "🥐",
+      "name": "ลาเต้",
+      "price": 55,
+      "emoji": "☕",
       "available": false,
       "tags": ["ร้อน","กาแฟ","ขายดี"]
     }
