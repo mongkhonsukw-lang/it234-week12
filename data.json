@@ -16,7 +16,7 @@
       "id": 2,
       "name": "ชาไทย",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "🧉",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
@@ -30,11 +30,11 @@
     },
     {
     "id": 4,
-      "name": "ลาเต้",
-      "price": 55,
-      "emoji": "☕",
-      "available": false,
-      "tags": ["ร้อน","กาแฟ","ขายดี"]
+      "name": "นมสด",
+      "price": 50,
+      "emoji": "🥛",
+      "available": true,
+      "tags": ["ร้อน","เย็น","ขายดี"]
     }
   ]
 }
